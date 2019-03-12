@@ -1,5 +1,5 @@
 {
-  "name": "is-html-tag",
+  "name": "is-html-tag-name",
   "description": "Check if a string is the name of an HTML tag",
   "author": "Harry Solovay",
   "version": "1.0.0",

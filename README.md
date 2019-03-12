@@ -1,9 +1,9 @@
-# is-html-tags
+# is-html-tags-name
 
 ```sh
-npm i is-html-tag
+npm i is-html-tag-name
 ```
 
 ```js
-import isHTMLTag from 'is-html-tag'
+import isHTMLTagName from 'is-html-tag-name'
 ```
