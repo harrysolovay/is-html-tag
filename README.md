@@ -1,4 +1,4 @@
-# is-html-tags-name
+# is-html-tag-name
 
 ```sh
 npm i is-html-tag-name
