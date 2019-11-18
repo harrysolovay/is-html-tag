@@ -169,4 +169,4 @@ const existenceMap = {
 
 const isHTMLTagName = inQuestion => !!existenceMap[inQuestion]
 module.exports = isHTMLTagName;
-Object.assign(module.exports, { isHTMLTagName })
+module.exports.isHTMLTagName = isHTMLTagName;
