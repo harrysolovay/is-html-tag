@@ -167,4 +167,6 @@ const existenceMap = {
   xmp: true,
 }
 
-module.exports = inQuestion => !!existenceMap[inQuestion]
+const isHTMLTagName = inQuestion => !!existenceMap[inQuestion]
+module.exports = isHTMLTagName;
+Object.assign(module.exports, { isHTMLTagName })
